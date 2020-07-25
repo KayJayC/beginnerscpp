@@ -1,0 +1,25 @@
+The following breakdowns are from Starting out with C++ From Control Structures Through Objects
+by Tony Gaddis
+
+//   =Double slash                        beginning of a comment
+#    =Pound sign                          beginning of a preprocessor directive
+<>   =Opening and closing brackets        Encloses a filename when used with the
+                                                #include directive
+()   =Opening and closing braces           Used in a naming a function, as in int main()
+{}   =Opening and closing braces           Encloses a group of statements, such as the contents
+                                                of a function
+" "  =Opening and closing quotation marks  Encloses a string of characters, such as a message
+                                                that is to be printed on the screen
+;    =Semicolon                            Marks the end of a complete programming statement.
+endl =Endline                              Stream manipulator that advance output to the beginning
+                                                of the next line for printing
+\n   =Newline escape sequence              Stream manipulator that advance output to the beginning
+                                                of the next line for printing
+\t   =Horizontal tab                       Causes the cursor to skip over to the next tab stop
+\a   =Alarm                                Computer to beep
+\b   =Backspace                            Causes the cursor to back up,or move left one position
+\r   =Return                               Causes the cursor to go to the beginning of the current
+                                                line,not the next one
+\\   =Backslash                            Causes a backslash to be printed
+\'   =Single quote                         Causes a single quotation mark to be printed
+\"   =Double quote                         Causes a double quotation mark to be printed
